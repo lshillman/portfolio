@@ -1,3 +1,31 @@
+* {
+    font-family: sans-serif;
+}
+
 body {
     background-color: aqua;
+}
+
+#projectContainer {
+
+}
+
+.project {
+    display: flex;
+    gap: 1rem;
+    background-color: white;
+    max-width: 800px;
+    margin: 0 auto 1rem auto;
+    padding: 1rem;
+}
+
+.project img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.projectLinks {
+    padding-top: 1rem;
+    display: flex;
+    gap: 2rem;
 }
