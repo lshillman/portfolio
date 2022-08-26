@@ -11,7 +11,7 @@ const projects = [
   {
     id: 1,
     title: "Anglo Piano",
-    description: "A fun app built in Axure RP to help anglo concertina players find chords and compose music",
+    description: "A fun app built in Axure RP to help anglo concertina players find chords and compose music. Currently being re-implemented with vanilla JS.",
     image: AngloPiano,
     repo: "https://github.com/lshillman/anglo-piano",
     deployed: "https://github.com/lshillman/oscillatornode-practice"
@@ -58,7 +58,6 @@ export default function Portfolio() {
       <p>
         Look on my works, ye mighty, and despair!
       </p>
-      <p>[image: the lone and level sands stretch far away]</p>
     </div>
     {/* <ProjectList projects={projects} /> */}
     <div id="projectContainer">

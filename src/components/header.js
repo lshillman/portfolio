@@ -3,10 +3,12 @@ import Nav from './Nav';
 
 function Header({ currentPage, handlePageChange }) {
   return (
-    <>
-    <span className="siteTitle">Luke Hillman</span>
-    <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
-    </>
+    <header>
+      <div className="header">
+        <span id="siteTitle">Luke Hillman</span>
+        <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
+      </div>
+    </header>
   );
 }
 

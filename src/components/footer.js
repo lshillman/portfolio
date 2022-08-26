@@ -3,6 +3,7 @@ import React from 'react';
 function Footer() {
   return (
     <footer>
+      <ul>
       <li>
         <a href="https://github.com/lshillman/" target="_blank">Github</a>
       </li>
@@ -12,6 +13,7 @@ function Footer() {
       <li>
         <a href="https://twitter.com/lshillman" target="_blank">Twitter</a>
       </li>
+      </ul>
     </footer>
   );
 }
