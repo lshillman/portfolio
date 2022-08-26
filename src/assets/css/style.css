@@ -85,8 +85,16 @@ main {
     gap: 1rem;
     background-color: white;
     max-width: 1200px;
-    margin: 0 auto 1rem auto;
+    margin: 0 auto 1.5rem auto;
     padding: 1rem;
+}
+
+.imgContainer {
+    flex-basis: 50%;
+}
+
+.projDesc {
+    flex-basis: 50%;
 }
 
 .project img {
@@ -228,6 +236,14 @@ footer ul {
     .project {
         display: flex;
         flex-wrap: wrap;
+    }
+
+    .imgContainer {
+        flex-basis: 100%;
+    }
+    
+    .projDesc {
+        flex-basis: 100%;
     }
 
 

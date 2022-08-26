@@ -4,8 +4,10 @@ function Project(props) {
   return (
     <>
         <section class="project">
-          <img src={props.project.image} alt={"Screenshot of " + props.project.title}/>
-          <div>
+          <div className="imgContainer">
+            <img src={props.project.image} alt={"Screenshot of " + props.project.title}/>
+          </div>
+          <div className="projDesc">
             <h2>{props.project.title}</h2>
             <p>{props.project.description}</p>
             <div className="projectLinks">
