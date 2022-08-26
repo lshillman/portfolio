@@ -159,6 +159,10 @@ footer {
 
 footer ul {
     gap: 1rem;
+    padding: 0;
+    width:fit-content;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
