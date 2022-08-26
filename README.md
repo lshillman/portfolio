@@ -2,7 +2,7 @@
 
 [![Hippocratic License HL3-FULL](https://img.shields.io/static/v1?label=Hippocratic%20License&message=HL3-FULL&labelColor=5e2751&color=bc8c3d)](https://firstdonoharm.dev/version/3/0/full.html)
 
-### Check out the [live site](https://lshillman.github.com/portfolio)
+### Check out the [live site](https://lshillman.github.io/portfolio)
 
 My dev portfolio, a responsive site built with React.js. For a more UX-focused portfolio, see [lukehillman.net](https://lukehillman.net).
 
