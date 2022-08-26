@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.523681b6.css",
+    "main.js": "/portfolio/static/js/main.a5711732.js",
+    "static/media/scheduler.jpg": "/portfolio/static/media/scheduler.362f2ad10f53a8725243.jpg",
+    "static/media/berkmo.jpg": "/portfolio/static/media/berkmo.9c4089e6d79e775fda70.jpg",
+    "static/media/anglo-piano.jpg": "/portfolio/static/media/anglo-piano.7814b25851f3818dad91.jpg",
+    "static/media/luke-headshot.jpg": "/portfolio/static/media/luke-headshot.44808401c5bb3ce19ec2.jpg",
+    "static/media/generation-ship-calc.jpg": "/portfolio/static/media/generation-ship-calc.9457f3d5a9cf593f739d.jpg",
+    "static/media/luke_hillman_dev_resume_2022.pdf": "/portfolio/static/media/luke_hillman_dev_resume_2022.3a491b4569bf3058a749.pdf",
+    "static/media/onlyfarms.jpg": "/portfolio/static/media/onlyfarms.4148871b365edeecb06e.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.523681b6.css.map": "/portfolio/static/css/main.523681b6.css.map",
+    "main.a5711732.js.map": "/portfolio/static/js/main.a5711732.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.523681b6.css",
+    "static/js/main.a5711732.js"
+  ]
+}
