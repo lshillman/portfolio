@@ -152,7 +152,8 @@ main {
 
 #resume {
     width: 100%;
-    height: 70vh;
+    aspect-ratio: 8.5/11;
+    /* height: 70vh; */
 }
 
 
