@@ -43,7 +43,7 @@ const projects = [
   {
     id: 5,
     title: "Shift Scheduler",
-    description: "A C++ app that takes a CSV of employee availabilities and outputs a weekly schedule. Originally written for Georgetown University's public safety department. This isn't deployed;",
+    description: "A C++ app that takes a CSV of employee availabilities and outputs a weekly schedule. Originally written for Georgetown University's public safety department. This isn't a web app; you'll need to download the source and run it locally.",
     image: Scheduler,
     repo: "https://github.com/lshillman/shift-scheduler",
     deployed: "https://github.com/lshillman/shift-scheduler"
